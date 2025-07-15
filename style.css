@@ -1,0 +1,40 @@
+body {
+  margin: 1;
+  font-family:  sans-serif;
+  background: #0e0e2c;
+  color: #e0e0f0;
+  padding-bottom: 40px;
+}
+
+
+h1 {
+  font-size: 2.5em;
+  color: #00ccff;
+  margin-bottom: 10px;
+}
+
+
+
+img {
+  width: 250px;
+  border-radius: 12px;
+  box-shadow: 20px;
+  margin-top: 20px;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 30px 20px;
+}
+
+h2 {
+  font-size: 1.7em;
+  color: #66d9ff;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+} 
